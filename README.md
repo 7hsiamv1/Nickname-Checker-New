@@ -7,7 +7,7 @@
 
 ## Example API Request  
 ```plaintext  
-https://nickname-checker-ob53.vercel.app/BD/player-info?uid=2815662785  
+https://nickname-checker-ob53.vercel.app/BD/player-name?uid=2815662785  
 ```  
 
 ## Example Response  
