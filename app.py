@@ -572,7 +572,7 @@ HOME_HTML = """<!DOCTYPE html>
 
     <div class="code-block">
       <div class="code-text">https://nickname-checker-new.vercel.app/<span>BD</span>/player-name?uid=<span>13900000666</span></div>
-      <button class="copy-btn" onclick="copyText('https://nickname-checker-new.vercel.app/BD/player-name?uid=2815662785', this)">Copy</button>
+      <button class="copy-btn" onclick="copyText('https://nickname-checker-new.vercel.app/BD/player-name?uid=13900000666', this)">Copy</button>
     </div>
   </div>
 
