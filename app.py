@@ -552,7 +552,7 @@ HOME_HTML = """<!DOCTYPE html>
     </div>
 
     <button class="btn" id="checkBtn" onclick="checkNickname()">
-      <span id="btnText">Verify Identity</span>
+      <span id="btnText">CHECK NICKNAME</span>
     </button>
 
     <div class="result-box" id="resultBox">
@@ -571,8 +571,8 @@ HOME_HTML = """<!DOCTYPE html>
     </div>
 
     <div class="code-block">
-      <div class="code-text">https://nickname-checker-ob53.vercel.app/<span>BD</span>/player-name?uid=<span>2815662785</span></div>
-      <button class="copy-btn" onclick="copyText('https://nickname-checker-ob53.vercel.app/BD/player-name?uid=2815662785', this)">Copy</button>
+      <div class="code-text">https://nickname-checker-new.vercel.app/<span>BD</span>/player-name?uid=<span>13900000666</span></div>
+      <button class="copy-btn" onclick="copyText('https://nickname-checker-new.vercel.app/BD/player-name?uid=2815662785', this)">Copy</button>
     </div>
   </div>
 
